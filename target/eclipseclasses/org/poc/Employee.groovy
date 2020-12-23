@@ -7,5 +7,5 @@ class Employee {
         String Age
     static constraints = {
     }
-    
+     static mapWith="mongo"
 }

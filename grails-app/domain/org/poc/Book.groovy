@@ -10,4 +10,5 @@ class Book {
     
     static constraints = {
     }
+    static mapWith="mongo"
 }
